@@ -1,2 +1,5 @@
 node_modules/
 .vscode/
+.hintrc
+.stylelintrc.json
+package-lock.json
